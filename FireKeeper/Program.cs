@@ -17,7 +17,7 @@ namespace FireKeeper
 
             Handler = new CommandHandler();
 
-            await Client.LoginAsync(Discord.TokenType.Bot, "NjMzMzk5MDQ2MTY1NDk1ODEx.XaTY8A.qoGtNi8X0QINIRYuQdAgmSRFf9s", true);
+            await Client.LoginAsync(Discord.TokenType.Bot, "Token", true);
 
             await Client.StartAsync();
 
