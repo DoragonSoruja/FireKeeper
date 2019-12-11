@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireKeeper", "ShrineMaiden\FireKeeper.csproj", "{5EC7CAC9-A9C7-4689-A496-154656C79D8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireKeeper", "FireKeeper\FireKeeper.csproj", "{5EC7CAC9-A9C7-4689-A496-154656C79D8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A07C1708-9071-4149-B4E7-8CDDEE233C75}
+		SolutionGuid = {DC3E185F-33C2-40B4-B19A-A6C7843DEFD6}
 	EndGlobalSection
 EndGlobal
